@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=yerbaneyro&label=Profile%20views&color=0e75b6&style=flat" alt="yerbaneyro" /> </p>
 
-- 🌱 I’m currently learning **C# .NET enviroment**
+- 🌱 I’m currently learning **C# .NET environment**
 
 - 📫 How to reach me **marcinbednarz102@outlook.com**
 
